@@ -1,10 +1,13 @@
 {
   "name": "portfolio2",
   "version": "1.0.0",
+  "homepage": "https://github.com/fransheskaN/Portfolio2",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
+    "predeploy": "expo build:web",
+    "deploy": "gh-pages -d web-build",
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject"
@@ -28,7 +31,8 @@
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "gh-pages": "^3.2.3"
   },
   "private": true
 }

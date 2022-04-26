@@ -14,15 +14,15 @@ export default function QuizScreen({ navigation, route }) {
       newKey: "2",
       options: [
         { label: "The Birth of Venus", correct: true, key: "1" },
-        { label: "The Hay-Wain", correct: true, key: "2" },
-        { label: "The Birth of Venus", correct: true, key: "1" },
-        { label: "The Hay-Wain", correct: true, key: "2" },
+        { label: "The Hay-Wain", correct: true, key: "1" },
+        { label: "Bosch", correct: false, key: "2" },
+        { label: "Botticelli", correct: false, key: "2" },
       ],
       answers: [
-        { label: "scarlet", correct: true, key: "1" },
-        { label: "The Hay-Wain", correct: true, key: "2" },
-        { label: "The Birth of Venus", correct: true, key: "1" },
-        { label: "The Hay-Wain", correct: true, key: "2" },
+        { label: "Triptych of the Garden of earthly Delights", correct: true, key: "1" },
+        { label: "Bosch", correct: true, key: "2" },
+        { label: "The Birth of Venus", correct: false, key: "1" },
+        { label: "The Hay-Wain", correct: false, key: "2" },
       ],
     },
     {
@@ -30,10 +30,10 @@ export default function QuizScreen({ navigation, route }) {
       key: "2",
       newKey: "3",
       options: [
-        { label: "The Birth of Venus", correct: true, key: "1" },
-        { label: "The Hay-Wain", correct: true, key: "2" },
-        { label: "The Birth of Venus", correct: true, key: "1" },
-        { label: "The Hay-Wain", correct: true, key: "2" },
+        { label: "Constable", correct: false, key: "2" },
+        { label: "David", correct: true, key: "1" },
+        { label: "The Birth of Venus", correct: false, key: "2" },
+        { label: "The death of Marat", correct: true, key: "1" },
       ],
     },
     {
@@ -41,10 +41,10 @@ export default function QuizScreen({ navigation, route }) {
       key: "3",
       newKey: "4",
       options: [
-        { label: "The Birth of Venus", correct: true, key: "1" },
-        { label: "The Hay-Wain", correct: true, key: "2" },
-        { label: "The Birth of Venus", correct: true, key: "1" },
-        { label: "The Hay-Wain", correct: true, key: "2" },
+        { label: "The Desperate Man", correct: true, key: "1" },
+        { label: "The Hay-Wain", correct: false, key: "2" },
+        { label: "Courbet", correct: true, key: "1" },
+        { label: "The death of Marat", correct: false, key: "2" },
       ],
     },
     {
@@ -52,10 +52,10 @@ export default function QuizScreen({ navigation, route }) {
       key: "4",
       newKey: "5",
       options: [
-        { label: "The Birth of Venus", correct: true, key: "1" },
-        { label: "The Hay-Wain", correct: true, key: "2" },
-        { label: "The Birth of Venus", correct: true, key: "1" },
-        { label: "The Hay-Wain", correct: true, key: "2" },
+        { label: "Charles I on horseback", correct: true, key: "1" },
+        { label: "Dyck", correct: true, key: "1" },
+        { label: "The Birth of Venus", correct: false, key: "2" },
+        { label: "The Hay-Wain", correct: false, key: "2" },
       ],
     },
   ];
