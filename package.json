@@ -7,7 +7,7 @@
     "start": "expo start",
     "android": "expo start --android",
     "predeploy": "expo build:web",
-    "deploy": "gh-pages -d web-build",
+    "deploy-hosting": "npm run predeploy && firebase deploy --only hosting",
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject"
