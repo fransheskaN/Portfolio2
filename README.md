@@ -13,7 +13,7 @@ The result component allows for the result to display using route.
 
 ----------------------------------------------
 
-https://fransheskan.github.io/portfolio/
+https://fransheskan.github.io/Portfolio2/
 
 
 ### by Fransheska Nunez
