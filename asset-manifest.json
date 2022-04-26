@@ -1,0 +1,38 @@
+{
+  "files": {
+    "app.js": "/fransheskaN/Portfolio2/static/js/app.163ee23f.chunk.js",
+    "app.js.map": "/fransheskaN/Portfolio2/static/js/app.163ee23f.chunk.js.map",
+    "runtime~app.js": "/fransheskaN/Portfolio2/static/js/runtime~app.2e4a0f94.js",
+    "runtime~app.js.map": "/fransheskaN/Portfolio2/static/js/runtime~app.2e4a0f94.js.map",
+    "static/js/2.cd8c5247.chunk.js": "/fransheskaN/Portfolio2/static/js/2.cd8c5247.chunk.js",
+    "static/js/2.cd8c5247.chunk.js.map": "/fransheskaN/Portfolio2/static/js/2.cd8c5247.chunk.js.map",
+    "fonts/AntDesign.ttf": "/fransheskaN/Portfolio2/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/fransheskaN/Portfolio2/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/fransheskaN/Portfolio2/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/fransheskaN/Portfolio2/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/fransheskaN/Portfolio2/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/fransheskaN/Portfolio2/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/fransheskaN/Portfolio2/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/fransheskaN/Portfolio2/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/fransheskaN/Portfolio2/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/fransheskaN/Portfolio2/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/fransheskaN/Portfolio2/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/fransheskaN/Portfolio2/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/fransheskaN/Portfolio2/favicon-16.png",
+    "favicon-32.png": "/fransheskaN/Portfolio2/favicon-32.png",
+    "favicon.ico": "/fransheskaN/Portfolio2/favicon.ico",
+    "index.html": "/fransheskaN/Portfolio2/index.html",
+    "manifest.json": "/fransheskaN/Portfolio2/manifest.json",
+    "serve.json": "/fransheskaN/Portfolio2/serve.json",
+    "static/js/2.cd8c5247.chunk.js.LICENSE.txt": "/fransheskaN/Portfolio2/static/js/2.cd8c5247.chunk.js.LICENSE.txt",
+    "static/media/bell.png": "/fransheskaN/Portfolio2/static/media/bell.cf04af27.png",
+    "static/media/heart.png": "/fransheskaN/Portfolio2/static/media/heart.23b5c2c0.png",
+    "static/media/rocket.png": "/fransheskaN/Portfolio2/static/media/rocket.d2f3bf41.png",
+    "static/media/star.png": "/fransheskaN/Portfolio2/static/media/star.69c71386.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.2e4a0f94.js",
+    "static/js/2.cd8c5247.chunk.js",
+    "static/js/app.163ee23f.chunk.js"
+  ]
+}
